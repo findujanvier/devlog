@@ -1,6 +1,7 @@
 # devlog
 # todo
 - learning markdown syntax
+- change theme
 - create porfolio
 - share github + jekyll + vscode setup and workflow
 - share unity editor 
