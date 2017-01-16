@@ -26,6 +26,7 @@ github_username:  findujanvier
 markdown: kramdown
 theme: minima
 gems:
+  - jekyll-admin      
   - jekyll-feed
 exclude:
   - Gemfile
@@ -33,5 +34,3 @@ exclude:
 
 highlighter: rouge
 encoding: bom|utf-8
-
-
